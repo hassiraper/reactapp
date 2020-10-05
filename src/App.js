@@ -8,7 +8,7 @@ import welcome from './components/Welcome'
 import Message from './components/Message'
 import Counter from './components/Counter'
 import FunctionClick from './components/FunctionClick'
-import ClassClick from './components/ClassClick'
+import ClassCliAk from './components/ClassClick'
 import EventBind from './components/EventBind'
 import ParentComponent from './components/ParentComponent';
 import UserGreeting from './components/UserGreeting';
@@ -32,7 +32,7 @@ function App() {
       {/* <NameList /> */}
       {/* <UserGreeting /> */}
       {/* <ParentComponent /> */}
-      {/* <EventBind /> */}
+      {/* <EventBind />/}
       {/*<FunctionClick />
       <ClassClick />
        <Counter />
@@ -46,11 +46,11 @@ function App() {
       <Greet name="Hamza" role="ASP.net"/>
       <Welcome name="Ali" role="React Native">
         <button>Ali</button>
-      </Welcome>
+      </Welcome
       <Welcome name="Hassam" role="Python">
       <button>Hassam</button>
       </Welcome>
-      <Welcome name="Hamza" role="ASP.net">
+      <Welcome name="Hamza" role="ASP.ne">
       <button>Hamza</button>
       </Welcome> */}
     </div>
